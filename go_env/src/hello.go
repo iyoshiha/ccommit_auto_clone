@@ -8,7 +8,7 @@ import (
 
 
 
-func main() {
+func maink() {
 	url := "http://google.co.jp"
 
 	resp, _ := http.Get(url)
